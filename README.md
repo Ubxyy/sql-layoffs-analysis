@@ -45,14 +45,6 @@ This project also introduced me to **more advanced SQL techniques** like **windo
 
 ---
 
-## Files in this Repository
-
-- `data_cleaning.sql` → SQL script for cleaning and preparing the dataset.  
-- `exploratory_analysis.sql` → SQL script for exploratory queries and insights.  
-- `README.md` → Project documentation.  
-
----
-
 ## Lessons Learned
 
 - How to approach real-world messy datasets with a structured cleaning workflow.  
